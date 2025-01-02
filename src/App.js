@@ -15,6 +15,7 @@ const App = () => {
             <Mybutton title="Button"/>
             <Mybutton>Childeren Props</Mybutton>
             <Mybutton />
+            {/* <Mybutton title={123}/> */}
         </View>
     );
 };
